@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>8.0</LangVersion>
+    <Description>ECD to PEM converter.</Description>
+    <Authors>sdcb</Authors>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/sdcb/Ecd2Pem</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sdcb/Ecd2Pem</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ECD, PEM</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
