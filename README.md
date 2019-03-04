@@ -22,7 +22,7 @@ nu3lr+fdixqx7+4FSTfUWyIuwHlE1NzVHR+IkKLKqRGdQqAsy2GVmi99MI75ZbqyWGuXtpacBHjz
 
 And you'll get:
 
-```-----BEGIN PUBLIC KEY-----
+`-----BEGIN PUBLIC KEY-----
 oUQDQgAEBOBqGferDeZhCY7Kw53bQw4PMD+XiY89CEv707nFiRKdciZnYSxGsSaeIreWawUQR72F
 lG7AOlp3EZMBqf6B2Q==
 -----END PUBLIC KEY-----`
