@@ -18,6 +18,13 @@ nu3lr+fdixqx7+4FSTfUWyIuwHlE1NzVHR+IkKLKqRGdQqAsy2GVmi99MI75ZbqyWGuXtpacBHjz
 5uNTRpUJCQ==
 -----END EC PRIVATE KEY-----
 ```
+(The CngKey can/should be generated this way):
+```
+CngKey cngKey = CngKey.Create(CngAlgorithm.ECDiffieHellmanP256, null, new CngKeyCreationParameters
+{
+    ExportPolicy = CngExportPolicies.AllowPlaintextExport, 
+});
+```
 
 # If you have a public key(generated from base64 converted public key): 
 ```
