@@ -1,7 +1,10 @@
 ## Ecd2Pem [![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Ecd2Pem)
 
 ## How to use?
-Install nuget package `Ecd2Pem`
+Install nuget package `Ecd2Pem`: 
+```
+nuget install Ecd2Pem
+```
 
 # If you have CngKey: 
 ```
